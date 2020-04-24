@@ -1,0 +1,26 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "description": "mern-ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingafter60/ecommerce-mern-rd.git"
+  },
+  "keywords": [
+    "ecommerse",
+    "express",
+    "react",
+    "node",
+    "monggodb"
+  ],
+  "author": "i nyoman gurnitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingafter60/ecommerce-mern-rd/issues"
+  },
+  "homepage": "https://github.com/ingafter60/ecommerce-mern-rd#readme"
+}
